@@ -1,0 +1,15 @@
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\bin\Debug\Common.dll.config
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\bin\Debug\Common.dll
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\bin\Debug\Common.pdb
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\obj\Debug\Common.dll
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\Common\obj\Debug\Common.pdb
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\bin\Debug\Common.dll.config
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\bin\Debug\Common.dll
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\bin\Debug\Common.pdb
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\bin\Debug\RabbitMQ.Client.dll
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\bin\Debug\RabbitMQ.Client.xml
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\obj\Debug\Common.dll
+C:\Daten\Studium\Master\Sem2\Model Driven Architecture\mda\BankStateMachine_RabbitMQ\Common\obj\Debug\Common.pdb

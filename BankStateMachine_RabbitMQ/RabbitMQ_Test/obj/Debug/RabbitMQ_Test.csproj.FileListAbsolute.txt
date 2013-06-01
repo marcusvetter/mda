@@ -1,0 +1,11 @@
+c:\users\marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\obj\Debug\RabbitMQ_Test.csprojResolveAssemblyReference.cache
+c:\users\marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\obj\Debug\RabbitMQ_Test.Form1.resources
+c:\users\marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\obj\Debug\RabbitMQ_Test.csproj.GenerateResource.Cache
+c:\users\marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\bin\Debug\RabbitMQ.Client.dll
+c:\users\marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\bin\Debug\BankStateMaschine_RabbitMQ.exe.config
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\bin\Debug\BankStateMaschine_RabbitMQ.exe
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\bin\Debug\BankStateMaschine_RabbitMQ.pdb
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\obj\Debug\BankStateMaschine_RabbitMQ.Properties.Resources.resources
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\obj\Debug\BankStateMaschine_RabbitMQ.exe
+C:\Users\Marcus\documents\visual studio 2012\Projects\RabbitMQ_Test\RabbitMQ_Test\obj\Debug\BankStateMaschine_RabbitMQ.pdb
